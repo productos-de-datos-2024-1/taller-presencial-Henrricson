@@ -1,0 +1,24 @@
+2024-04-06 16:29:59,459:INFO:Starting API server
+2024-04-06 16:29:59,635:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000
+2024-04-06 16:29:59,636:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 16:29:59,642:INFO: * Restarting with stat
+2024-04-06 16:30:02,735:INFO:Starting API server
+2024-04-06 16:30:02,754:WARNING: * Debugger is active!
+2024-04-06 16:30:02,805:INFO: * Debugger PIN: 510-765-306
+2024-04-06 16:34:43,937:INFO:172.18.0.1 - - [06/Apr/2024 16:34:43] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 16:34:44,093:INFO:172.18.0.1 - - [06/Apr/2024 16:34:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 16:44:57,369:INFO:----------------------------------------
+2024-04-06 16:44:57,389:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 16:45:12,995:INFO:----------------------------------------
+2024-04-06 16:45:12,999:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 16:45:42,188:INFO:Prediction: [155849.90294016]
+2024-04-06 16:45:42,219:INFO:Prediction: [155849.90294016]
+2024-04-06 16:45:42,253:INFO:172.18.0.3 - - [06/Apr/2024 16:45:42] "POST / HTTP/1.1" 200 -
+2024-04-06 16:45:42,254:INFO:172.18.0.3 - - [06/Apr/2024 16:45:42] "POST / HTTP/1.1" 200 -
+2024-04-06 16:47:15,136:INFO:----------------------------------------
+2024-04-06 16:47:15,137:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 16:47:15,168:INFO:Prediction: [155849.90294016]
+2024-04-06 16:47:15,170:INFO:172.18.0.3 - - [06/Apr/2024 16:47:15] "POST / HTTP/1.1" 200 -
